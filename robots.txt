@@ -1,4 +1,6 @@
 User-agent: *
+Host: https://agranafrut.ru
+Sitemap: https://agranafrut.ru/sitemap.xml
 Disallow: /js
 Disallow: /css
 Disallow: /fonts
